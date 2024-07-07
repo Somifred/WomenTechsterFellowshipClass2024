@@ -1,9 +1,9 @@
-Project Topic- DataProfesionals_Survey
+# **Project Topic- DataProfesionals_Survey**
 
-# **Introduction:**
-Analyzing the Job Satisfaction and Salary disparities in data-related roles using the Data Professional Survey by Alex Freberg
+**Introduction:**
+Analyzing the Job Satisfaction and Salary disparities in data-related roles using the Data Professional Survey by Alex Freberg using Google Colaboratory
 
-About the Dataset:
+**About the Dataset:**
 This dataset was compiled by YouTuber Alex Freberg, more commonly recognized as Alex The Analyst. He conducted a survey among his audience, comprised mainly of data professionals, to assess the current landscape of data and those working within the field. The survey had the following questions;
 
 *   Date_Taken- Date Taken (America/New_York)
@@ -34,5 +34,5 @@ This dataset was compiled by YouTuber Alex Freberg, more commonly recognized as 
 
 *   Ethnicity
 
-Problem Statement Identification:
+**Problem Statement Identification:**
 Investigating salary discrepancies and job satisfaction amongst data professionals based on factors such as job role, industry, demographic, sex, programming language, relationship with coworkers, management, upword mobiliity opportunities. learning environment and ethnicity.
